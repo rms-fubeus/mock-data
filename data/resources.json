@@ -1,0 +1,96 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data": [
+    {
+      "id": "eda6abf6bf674a038718b07e8e5b44ea",
+      "resourceName": "Permission Actions",
+      "alias": "Permission Actions",
+      "description": "Permission Actions",
+      "identifier": "ACTIONS",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.6951372Z"
+    },
+    {
+      "id": "2f7d1e84f4a34456b46ef2edc19c732e",
+      "resourceName": "Resources",
+      "alias": "Resources",
+      "description": "Resources",
+      "identifier": "RESOURCES",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.6795133Z"
+    },
+    {
+      "id": "1d7c3d5b026b471b854c4df635dbd9af",
+      "resourceName": "Roles",
+      "alias": "Roles",
+      "description": "Roles",
+      "identifier": "ROLES",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.6638891Z"
+    },
+    {
+      "id": "1800de3821d943b2bc050e0530af71cc",
+      "resourceName": "Persona",
+      "alias": "Persona",
+      "description": "Persona",
+      "identifier": "PERSONAS",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.6482611Z"
+    },
+    {
+      "id": "67ef493f725e41a490b2471729433055",
+      "resourceName": "Permission Management",
+      "alias": "Permission Management",
+      "description": "Permission Management",
+      "identifier": "PERMISSION_MANAGEMENT",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.6326612Z"
+    },
+    {
+      "id": "4b2d03f448234277b4997c24c0bf51f0",
+      "resourceName": "Organization Type",
+      "alias": "Organization Type",
+      "description": "Organization Type",
+      "identifier": "ORGANIZATION_LEVEL",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.6169775Z"
+    },
+    {
+      "id": "2cc5e2112f3245a0877bd5bc9ba393e7",
+      "resourceName": "Setup",
+      "alias": "Setup",
+      "description": "Setup",
+      "identifier": "SETUP",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.5857269Z"
+    },
+    {
+      "id": "a0d4b20fcfc24289a50c326da879a12d",
+      "resourceName": "Users",
+      "alias": "Users",
+      "description": "Users",
+      "identifier": "USERS",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.5388512Z"
+    },
+    {
+      "id": "763d536b5a9f410fba27aef4cb2e0c24",
+      "resourceName": "Organizations",
+      "alias": "Organizations",
+      "description": "Organizations",
+      "identifier": "ORGANIZATIONS",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.5232267Z"
+    },
+    {
+      "id": "283744e1c31e4fe6a1a3d0b180efaece",
+      "resourceName": "Administration",
+      "alias": "Administration",
+      "description": "Administration",
+      "identifier": "ADMINISTRATION",
+      "isActive": true,
+      "createdDate": "2021-05-09T16:28:57.5076017Z"
+    }
+  ]
+}

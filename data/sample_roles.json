@@ -1,0 +1,324 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data": [
+    {
+      "id": "5aac873ab5f94707bd87a1de91741b90",
+      "roleName": "DistributorAdmin",
+      "opcoName": null,
+      "description": "des",
+      "identifier": "DistAdmin",
+      "isActive": true,
+      "resources": [
+        {
+          "id": "0a9c620b19ee4fe99143c184c167be50",
+          "resourceName": "Tunnel Config",
+          "actions": [
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "763d536b5a9f410fba27aef4cb2e0c24",
+          "resourceName": "Organizations",
+          "actions": [
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            }
+          ]
+        },
+        {
+          "id": "a0d4b20fcfc24289a50c326da879a12d",
+          "resourceName": "Users",
+          "actions": [
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        }
+      ],
+      "personas": null,
+      "createdDate": "0001-01-01T00:00:00",
+      "isDefault": false,
+      "editedDate": "2022-08-09T01:18:46.389402Z"
+    },
+    {
+      "id": "c3254cdeaf0b45ddb13bf10870da9d83",
+      "roleName": "NormalUser",
+      "opcoName": null,
+      "description": "Normal User",
+      "identifier": "Normal_User",
+      "isActive": true,
+      "resources": [
+        {
+          "id": "0a9c620b19ee4fe99143c184c167be50",
+          "resourceName": "Tunnel Config",
+          "actions": [
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        }
+      ],
+      "personas": null,
+      "createdDate": "0001-01-01T00:00:00",
+      "isDefault": false,
+      "editedDate": "2022-08-01T09:17:12.1118449Z"
+    },
+    {
+      "id": "001c7fdbe55a43b1ae9dc0cb3f88e26b",
+      "roleName": "SuperAdmin",
+      "opcoName": null,
+      "description": "Super Admin",
+      "identifier": "Super_Admin",
+      "isActive": true,
+      "resources": [
+        {
+          "id": "0a9c620b19ee4fe99143c184c167be50",
+          "resourceName": "Tunnel Config",
+          "actions": [
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "763d536b5a9f410fba27aef4cb2e0c24",
+          "resourceName": "Organizations",
+          "actions": [
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "a0d4b20fcfc24289a50c326da879a12d",
+          "resourceName": "Users",
+          "actions": [
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "2cc5e2112f3245a0877bd5bc9ba393e7",
+          "resourceName": "Setup",
+          "actions": [
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            }
+          ]
+        },
+        {
+          "id": "67ef493f725e41a490b2471729433055",
+          "resourceName": "Permission Management",
+          "actions": [
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            }
+          ]
+        },
+        {
+          "id": "1800de3821d943b2bc050e0530af71cc",
+          "resourceName": "Persona",
+          "actions": [
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "1d7c3d5b026b471b854c4df635dbd9af",
+          "resourceName": "Roles",
+          "actions": [
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "2f7d1e84f4a34456b46ef2edc19c732e",
+          "resourceName": "Resources",
+          "actions": [
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "eda6abf6bf674a038718b07e8e5b44ea",
+          "resourceName": "Permission Actions",
+          "actions": [
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        },
+        {
+          "id": "4b2d03f448234277b4997c24c0bf51f0",
+          "resourceName": "Organization Type",
+          "actions": [
+            {
+              "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
+              "actionName": "Create"
+            },
+            {
+              "id": "6535c8b7d0104dd59184494fb462e2f2",
+              "actionName": "Update"
+            },
+            {
+              "id": "785837efc2ee4e82bda8178362cc5b03",
+              "actionName": "Read"
+            },
+            {
+              "id": "6149a96ff0564a8d9f8a48577d87abc1",
+              "actionName": "Delete"
+            }
+          ]
+        }
+      ],
+      "personas": null,
+      "createdDate": "0001-01-01T00:00:00",
+      "isDefault": false,
+      "editedDate": "2021-08-20T08:03:15.6294761Z"
+    }
+  ]
+}

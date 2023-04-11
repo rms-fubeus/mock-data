@@ -1,0 +1,151 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data": {
+    "templateName": "PlatformTemplate",
+    "type": "MainMenu",
+    "backgroundColor": "#ffffff",
+    "logoPath": "./assets/images/defaultlogo.png",
+    "logoWidth": "120",
+    "logoHeight": "40",
+    "logoName": "default-logo.png",
+    "brand": "Platform",
+    "menuItems": [
+      {
+        "id": "ba8211b8434e4ab3b81c338e80bf4ec3",
+        "name": "Administration",
+        "identifier": "ADMINISTRATION",
+        "type": "Dropdown",
+        "routerLink": "",
+        "logoPath": "./assets/images/Administration.svg",
+        "logoWidth": "120",
+        "logoHeight": "40",
+        "subMenus": [
+          {
+            "id": "7036a277c4fd4e87939e913058c12b2e",
+            "name": "Users",
+            "identifier": "USERS",
+            "type": "Link",
+            "routerLink": "/_admin/users/viewUsers",
+            "logoPath": "./assets/images/users.svg",
+            "logoWidth": "120",
+            "logoHeight": "40",
+            "subMenus": [],
+            "parentId": "ba8211b8434e4ab3b81c338e80bf4ec3",
+            "menuOrder": 1
+          },
+          {
+            "id": "20bc2a8a16b9445f96787bb30dfdece0",
+            "name": "Organizations",
+            "identifier": "ORGANIZATIONS",
+            "type": "Link",
+            "routerLink": "/_admin/organizations/viewOrganizations",
+            "logoPath": "./assets/images/Organizations.svg",
+            "logoWidth": "120",
+            "logoHeight": "40",
+            "subMenus": [],
+            "parentId": "ba8211b8434e4ab3b81c338e80bf4ec3",
+            "menuOrder": 2
+          }
+        ],
+        "parentId": "0",
+        "menuOrder": 4
+      },
+      {
+        "id": "4b56f7e8bc4240889a43fe21bbf9f50c",
+        "name": "Setup",
+        "identifier": "SETUP",
+        "type": "Dropdown",
+        "routerLink": "",
+        "logoPath": "./assets/images/DeviceManagement.svg",
+        "logoWidth": "120",
+        "logoHeight": "40",
+        "subMenus": [
+          {
+            "id": "267d7cac65ed4b05b6f038e78302b361",
+            "name": "Organizations",
+            "identifier": "ORGANIZATION_LEVEL",
+            "type": "Link",
+            "routerLink": "setup/organizationLevel/viewOrganizationLevels",
+            "logoPath": "./assets/images/OrganizationLevel.svg",
+            "logoWidth": "120",
+            "logoHeight": "40",
+            "subMenus": [],
+            "parentId": "4b56f7e8bc4240889a43fe21bbf9f50c",
+            "menuOrder": 1
+          },
+          {
+            "id": "73899e448048478f8c5b1ee607b99700",
+            "name": "Permission Management",
+            "identifier": "PERMISSION_MANAGEMENT",
+            "type": "Dropdown",
+            "routerLink": "",
+            "logoPath": "./assets/images/PermissionManagement.svg",
+            "logoWidth": "120",
+            "logoHeight": "40",
+            "subMenus": [
+              {
+                "id": "d0b0cf3fdac14381b9ddd19ce424252b",
+                "name": "Permission Actions",
+                "identifier": "ACTIONS",
+                "type": "Link",
+                "routerLink": "/setup/authorization/action",
+                "logoPath": "./assets/images/Action.svg",
+                "logoWidth": "120",
+                "logoHeight": "40",
+                "subMenus": [],
+                "parentId": "73899e448048478f8c5b1ee607b99700",
+                "menuOrder": 1
+              },
+              {
+                "id": "ff8be779b5b7447f84d7d9064d7a87b3",
+                "name": "Resources",
+                "identifier": "RESOURCES",
+                "type": "Link",
+                "routerLink": "/setup/authorization/resource",
+                "logoPath": "./assets/images/Resources.svg",
+                "logoWidth": "120",
+                "logoHeight": "40",
+                "subMenus": [],
+                "parentId": "73899e448048478f8c5b1ee607b99700",
+                "menuOrder": 2
+              },
+              {
+                "id": "39f2b4ee38b04f6487ac90acf1300551",
+                "name": "Roles",
+                "identifier": "ROLES",
+                "type": "Link",
+                "routerLink": "/setup/authorization/roles",
+                "logoPath": "./assets/images/Roles.svg",
+                "logoWidth": "120",
+                "logoHeight": "40",
+                "subMenus": [],
+                "parentId": "73899e448048478f8c5b1ee607b99700",
+                "menuOrder": 3
+              },
+              {
+                "id": "73899e448048478f8c5b1ee607b99100",
+                "name": "Persona",
+                "identifier": "PERSONAS",
+                "type": "Link",
+                "routerLink": "/setup/authorization/persona",
+                "logoPath": "./assets/images/Persona.svg",
+                "logoWidth": "120",
+                "logoHeight": "40",
+                "subMenus": [],
+                "parentId": "73899e448048478f8c5b1ee607b99700",
+                "menuOrder": 4
+              }
+            ],
+            "parentId": "4b56f7e8bc4240889a43fe21bbf9f50c",
+            "menuOrder": 2
+          }
+        ],
+        "parentId": "0",
+        "menuOrder": 5
+      }
+    ],
+    "isActive": true,
+    "personaName": null
+  }
+}
