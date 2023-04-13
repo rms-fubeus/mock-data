@@ -1,31 +1,19 @@
-var express = require('express');
+var express = require("express");
 var router = express.Router();
 
-const CLIENT = require('../data/clients.json');
-const USERS = require('../data/users.json');
-const ROLES = require('../data/roles.json');
-const ACTIONS = require('../data/sample_actions.json');
-const RESOURCES = require('../data/resources.json');
-
-
-router.get('/users', function(req, res, next) {
-  res.send(USERS);
-});
-
-router.get('/clients', function(req, res, next) {
-  res.send(CLIENT);
-});
-
-router.get('/roles', function(req, res, next) {
-  res.send(ROLES);
-});
-
-router.get('/actions', function(req, res, next) {
-  res.send(ACTIONS);
-});
-
-router.get('/resources', function(req, res, next) {
-  res.send(RESOURCES);
+router.get("/", function (req, res, next) {
+  res.render("index", {
+      title: "MOCK DATA",
+      url: {
+        users: "/api/users",
+        roles: "/api/roles",
+        clients: "/api/clients",
+        actions: "/api/actions",
+        resources: "/api/resources",
+        sampleMainMenu: "/api/sample_main_menu",
+        sampleRoles: "/api/sample_roles"
+      },
+  });
 });
 
 module.exports = router;
