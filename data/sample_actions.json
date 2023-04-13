@@ -1,38 +1,34 @@
-{
-  "statusCode": 200,
-  "message": "",
-  "data": [
-    {
+[
+  {
       "id": "6535c8b7d0104dd59184494fb462e2f2",
       "actionName": "Update",
       "alias": "Update",
       "description": "Update",
       "identifier": "UPDATE",
       "createdDate": "2021-05-09T16:28:57.3200975Z"
-    },
-    {
+  },
+  {
       "id": "785837efc2ee4e82bda8178362cc5b03",
       "actionName": "Read",
       "alias": "Read",
       "description": "Read",
       "identifier": "READ",
       "createdDate": "2021-05-09T16:28:57.3044744Z"
-    },
-    {
+  },
+  {
       "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
       "actionName": "Create",
       "alias": "Create",
       "description": "Create",
       "identifier": "CREATE",
       "createdDate": "2021-05-09T16:28:57.3044744Z"
-    },
-    {
+  },
+  {
       "id": "6149a96ff0564a8d9f8a48577d87abc1",
       "actionName": "Delete",
       "alias": "Delete",
       "description": "Delete",
       "identifier": "DELETE",
       "createdDate": "2021-05-09T16:28:57.0388421Z"
-    }
-  ]
-}
+  }
+]
