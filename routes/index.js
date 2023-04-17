@@ -7,6 +7,7 @@ router.get("/", function (req, res, next) {
       url: {
         users: "/api/users",
         roles: "/api/roles",
+        roles_detail: "/api/roles/:id",
         clients: "/api/clients",
         actions: "/api/actions",
         resources: "/api/resources",

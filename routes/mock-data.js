@@ -9,6 +9,7 @@ const RESOURCES = require('../data/resources.json');
 
 const SAMPLE_ROLES = require('../data/sample_roles.json');
 const SAMPLE_MAIN_MENU = require('../data/main_menu.json');
+const ROLE_DETAIL = require('../data/role_detail.json');
 
 
 
@@ -22,6 +23,10 @@ router.get('/clients', function(req, res, next) {
 
 router.get('/roles', function(req, res, next) {
   res.send(ROLES);
+});
+
+router.get('/roles/:id', function(req, res, next) {
+  res.send(ROLE_DETAIL);
 });
 
 router.get('/actions', function(req, res, next) {
