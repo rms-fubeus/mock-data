@@ -2,49 +2,19 @@
   {
    "createdAt": "2023-04-10T06:22:04.461Z",
    "name": "Admin",
-   "count": 95,
+   "count": 2,
    "id": "1"
   },
   {
    "createdAt": "2023-04-11T03:32:55.672Z",
    "name": "Reviewer",
-   "count": 11,
+   "count": 1,
    "id": "2"
   },
   {
    "createdAt": "2023-04-11T04:47:54.354Z",
    "name": "Assessor",
-   "count": 30,
+   "count": 1,
    "id": "3"
-  },
-  {
-   "createdAt": "2023-04-11T02:38:13.489Z",
-   "name": "Analyst",
-   "count": 94,
-   "id": "5"
-  },
-  {
-   "createdAt": "2023-04-10T22:43:40.996Z",
-   "name": "Manager",
-   "count": 94,
-   "id": "6"
-  },
-  {
-   "createdAt": "2023-04-10T22:51:03.112Z",
-   "name": "Producer",
-   "count": 48,
-   "id": "7"
-  },
-  {
-   "createdAt": "2023-04-11T00:12:54.693Z",
-   "name": "Administrator",
-   "count": 76,
-   "id": "8"
-  },
-  {
-   "createdAt": "2023-04-10T10:07:45.237Z",
-   "name": "Assistant",
-   "count": 63,
-   "id": "9"
   }
  ]

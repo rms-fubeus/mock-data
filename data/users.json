@@ -5,7 +5,7 @@
    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/239.jpg",
    "title": "Dynamic Identity Technician",
    "email": "Alvah.Walter@yahoo.com",
-   "role": "Architect",
+   "role": "Reviewer",
    "id": "1"
   },
   {
@@ -14,7 +14,7 @@
    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/2.jpg",
    "title": "Regional Identity Developer",
    "email": "Quentin.Champlin28@hotmail.com",
-   "role": "Coordinator",
+   "role": "Admin",
    "id": "2"
   },
   {
@@ -23,7 +23,7 @@
    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/16.jpg",
    "title": "Principal Accountability Architect",
    "email": "Verona_Hegmann@hotmail.com",
-   "role": "Specialist",
+   "role": "Assessor",
    "id": "3"
   },
   {
@@ -32,7 +32,7 @@
    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/643.jpg",
    "title": "Internal Communications Officer",
    "email": "Elmer_Cole53@yahoo.com",
-   "role": "Supervisor",
+   "role": "Admin",
    "id": "4"
   },
   {
@@ -41,43 +41,7 @@
    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/418.jpg",
    "title": "Central Response Analyst",
    "email": "Ramona.Kuvalis6@hotmail.com",
-   "role": "Coordinator",
+   "role": "Assessor",
    "id": "5"
-  },
-  {
-   "createdAt": "2023-04-10T23:55:51.674Z",
-   "name": "Harvey Davis",
-   "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/514.jpg",
-   "title": "Corporate Interactions Executive",
-   "email": "Rudolph.Gerlach@yahoo.com",
-   "role": "Manager",
-   "id": "6"
-  },
-  {
-   "createdAt": "2023-04-10T05:24:59.351Z",
-   "name": "Steven Gutkowski",
-   "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/639.jpg",
-   "title": "Customer Brand Officer",
-   "email": "Bailey89@yahoo.com",
-   "role": "Agent",
-   "id": "7"
-  },
-  {
-   "createdAt": "2023-04-10T09:13:30.647Z",
-   "name": "Sylvia Johnston",
-   "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/305.jpg",
-   "title": "Chief Mobility Developer",
-   "email": "Oleta_Weimann@gmail.com",
-   "role": "Developer",
-   "id": "8"
-  },
-  {
-   "createdAt": "2023-04-10T23:50:00.578Z",
-   "name": "Anna Hyatt",
-   "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/622.jpg",
-   "title": "Product Infrastructure Officer",
-   "email": "Kyle71@yahoo.com",
-   "role": "Specialist",
-   "id": "9"
   }
  ]

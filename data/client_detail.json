@@ -1,0 +1,17 @@
+{
+  "createdAt": "2023-04-10T20:05:24.318Z",
+  "clientName": "ACME CORPORATION",
+  "avatar": "https://loremflickr.com/640/480/business",
+  "location": "Banaglore, India",
+  "assessments": 83,
+  "id": "1",
+  "clientPoc": "",
+  "msaStartDate": "2023-04-10T20:05:24.318Z",
+  "msaEndDate": "2023-05-10T20:05:24.318Z",
+  "industry": "TECH",
+  "sector": "SSA",
+  "servicesPoc": "ABC",
+  "salesPoc": "ABC",
+  "country": "India",
+  "city": "Banaglore"
+}

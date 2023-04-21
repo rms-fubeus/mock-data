@@ -1,103 +1,7 @@
 [
   {
-    "id": "2f7d1e84f4a34456b46ef2edc19c732e",
-    "resourceName": "Settings",
-    "alias": "Settings",
-    "description": "Settings",
-    "identifier": "SETTINGS",
-    "isActive": true,
-    "createdDate": "2021-05-09T16:28:57.6795133Z",
-    "actions": [
-      {
-        "id": "6535c8b7d0104dd59184494fb462e2f2",
-        "actionName": "Update",
-        "alias": "Update",
-        "description": "Update",
-        "identifier": "UPDATE",
-        "createdDate": "2021-05-09T16:28:57.3200975Z",
-        "checked": false
-      },
-      {
-        "id": "785837efc2ee4e82bda8178362cc5b03",
-        "actionName": "Read",
-        "alias": "Read",
-        "description": "Read",
-        "identifier": "READ",
-        "createdDate": "2021-05-09T16:28:57.3044744Z",
-        "checked": false
-      },
-      {
-        "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
-        "actionName": "Create",
-        "alias": "Create",
-        "description": "Create",
-        "identifier": "CREATE",
-        "createdDate": "2021-05-09T16:28:57.3044744Z",
-        "checked": false
-      },
-      {
-        "id": "6149a96ff0564a8d9f8a48577d87abc1",
-        "actionName": "Delete",
-        "alias": "Delete",
-        "description": "Delete",
-        "identifier": "DELETE",
-        "createdDate": "2021-05-09T16:28:57.0388421Z",
-        "checked": false
-      }
-    ]
-  },
-  {
-    "id": "1d7c3d5b026b471b854c4df635dbd9af",
-    "resourceName": "User Management",
-    "alias": "User Management",
-    "description": "User Management",
-    "identifier": "USER_MANAGEMENT",
-    "isActive": true,
-    "createdDate": "2021-05-09T16:28:57.6638891Z",
-    "actions": [
-      {
-        "id": "6535c8b7d0104dd59184494fb462e2f2",
-        "actionName": "Update",
-        "alias": "Update",
-        "description": "Update",
-        "identifier": "UPDATE",
-        "createdDate": "2021-05-09T16:28:57.3200975Z",
-        "checked": false
-      },
-      {
-        "id": "785837efc2ee4e82bda8178362cc5b03",
-        "actionName": "Read",
-        "alias": "Read",
-        "description": "Read",
-        "identifier": "READ",
-        "createdDate": "2021-05-09T16:28:57.3044744Z",
-        "checked": false
-      },
-      {
-        "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
-        "actionName": "Create",
-        "alias": "Create",
-        "description": "Create",
-        "identifier": "CREATE",
-        "createdDate": "2021-05-09T16:28:57.3044744Z",
-        "checked": false
-      },
-      {
-        "id": "6149a96ff0564a8d9f8a48577d87abc1",
-        "actionName": "Delete",
-        "alias": "Delete",
-        "description": "Delete",
-        "identifier": "DELETE",
-        "createdDate": "2021-05-09T16:28:57.0388421Z",
-        "checked": false
-      }
-    ]
-  },
-  {
     "id": "1800de3821d943b2bc050e0530af71cc",
     "resourceName": "Users",
-    "alias": "users",
-    "description": "users",
     "identifier": "USERS",
     "isActive": true,
     "createdDate": "2021-05-09T16:28:57.6482611Z",
@@ -105,8 +9,6 @@
       {
         "id": "6535c8b7d0104dd59184494fb462e2f2",
         "actionName": "Update",
-        "alias": "Update",
-        "description": "Update",
         "identifier": "UPDATE",
         "createdDate": "2021-05-09T16:28:57.3200975Z",
         "checked": false
@@ -114,8 +16,6 @@
       {
         "id": "785837efc2ee4e82bda8178362cc5b03",
         "actionName": "Read",
-        "alias": "Read",
-        "description": "Read",
         "identifier": "READ",
         "createdDate": "2021-05-09T16:28:57.3044744Z",
         "checked": false
@@ -123,8 +23,6 @@
       {
         "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
         "actionName": "Create",
-        "alias": "Create",
-        "description": "Create",
         "identifier": "CREATE",
         "createdDate": "2021-05-09T16:28:57.3044744Z",
         "checked": false
@@ -132,8 +30,6 @@
       {
         "id": "6149a96ff0564a8d9f8a48577d87abc1",
         "actionName": "Delete",
-        "alias": "Delete",
-        "description": "Delete",
         "identifier": "DELETE",
         "createdDate": "2021-05-09T16:28:57.0388421Z",
         "checked": false
@@ -143,8 +39,6 @@
   {
     "id": "1800de3821d943b2bc050e0530af71ceee",
     "resourceName": "Roles",
-    "alias": "roles",
-    "description": "roles",
     "identifier": "ROLES",
     "isActive": true,
     "createdDate": "2021-05-09T16:28:57.6482611Z",
@@ -152,8 +46,6 @@
       {
         "id": "6535c8b7d0104dd59184494fb462e2f2",
         "actionName": "Update",
-        "alias": "Update",
-        "description": "Update",
         "identifier": "UPDATE",
         "createdDate": "2021-05-09T16:28:57.3200975Z",
         "checked": false
@@ -161,8 +53,6 @@
       {
         "id": "785837efc2ee4e82bda8178362cc5b03",
         "actionName": "Read",
-        "alias": "Read",
-        "description": "Read",
         "identifier": "READ",
         "createdDate": "2021-05-09T16:28:57.3044744Z",
         "checked": false
@@ -170,8 +60,6 @@
       {
         "id": "fcc6d3bde22848b9a0f91b16bddcf0d3",
         "actionName": "Create",
-        "alias": "Create",
-        "description": "Create",
         "identifier": "CREATE",
         "createdDate": "2021-05-09T16:28:57.3044744Z",
         "checked": false
@@ -179,8 +67,6 @@
       {
         "id": "6149a96ff0564a8d9f8a48577d87abc1",
         "actionName": "Delete",
-        "alias": "Delete",
-        "description": "Delete",
         "identifier": "DELETE",
         "createdDate": "2021-05-09T16:28:57.0388421Z",
         "checked": false

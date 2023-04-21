@@ -9,10 +9,10 @@ router.get("/", function (req, res, next) {
         roles: "/api/roles",
         roles_detail: "/api/roles/:id",
         clients: "/api/clients",
+        client_detail: "/api/clients/:id",
         actions: "/api/actions",
         resources: "/api/resources",
-        sampleMainMenu: "/api/sample_main_menu",
-        sampleRoles: "/api/sample_roles"
+        sampleMainMenu: "/api/sample_main_menu"
       },
   });
 });

@@ -1,82 +1,34 @@
 [
   {
    "createdAt": "2023-04-10T20:05:24.318Z",
-   "name": "Franey - Gottlieb",
+   "name": "ACME CORPORATION",
    "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Longview",
+   "location": "Banaglore, India",
    "assessments": 83,
    "id": "1"
   },
   {
    "createdAt": "2023-04-10T12:05:51.340Z",
-   "name": "Grant - Kunze",
+   "name": "GLOBEX INDUSTRIES",
    "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Chino",
+   "location": "Banaglore, India",
    "assessments": 48,
    "id": "2"
   },
   {
    "createdAt": "2023-04-10T17:18:56.239Z",
-   "name": "Mayer Inc",
+   "name": "HOOLI TECH",
    "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Bentonville",
+   "location": "Banaglore, India",
    "assessments": 51,
    "id": "3"
   },
   {
-   "createdAt": "2023-04-10T10:31:07.818Z",
-   "name": "Luettgen Schuster",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Tonawanda",
-   "assessments": 38,
-   "id": "4"
-  },
-  {
-   "createdAt": "2023-04-10T15:27:05.198Z",
-   "name": "Daniel Okuneva",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Lake Charles",
-   "assessments": 92,
-   "id": "5"
-  },
-  {
-   "createdAt": "2023-04-11T09:24:12.689Z",
-   "name": "Stokes Inc",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Marysville",
-   "assessments": 46,
-   "id": "6"
-  },
-  {
-   "createdAt": "2023-04-10T23:12:57.702Z",
-   "name": "Zieme - Leffler",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Leesburg",
-   "assessments": 8,
-   "id": "7"
-  },
-  {
-   "createdAt": "2023-04-10T19:11:02.503Z",
-   "name": "Walker Group",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Taylorsville",
-   "assessments": 16,
-   "id": "8"
-  },
-  {
-   "createdAt": "2023-04-10T23:27:36.884Z",
-   "name": "Luettgen Group",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "Madison",
-   "assessments": 34,
-   "id": "9"
-  },
-  {
-   "createdAt": "2023-04-10T15:01:22.252Z",
-   "name": "Mayer - Dickinson",
-   "avatar": "https://loremflickr.com/640/480/business",
-   "location": "South Bend",
-   "assessments": 75,
-   "id": "10"
+    "createdAt": "2023-04-10T17:18:56.239Z",
+    "name": "INTECH",
+    "avatar": "https://loremflickr.com/640/480/business",
+    "location": "Banaglore, India",
+    "assessments": 51,
+    "id": "4"
   }
- ]
+]
