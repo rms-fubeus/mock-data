@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "name": "NIST",
+        "domain": 6,
+        "category": 13,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "NIST",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "ISO 27001",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "SSA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "HIPAA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "NIST",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "ISO 27001",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "SSA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "HIPAA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "NIST",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "ISO 27001",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "SSA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "HIPAA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "NIST",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "ISO 27001",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "SSA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 1,
+        "name": "HIPAA",
+        "domain": 6,
+        "category": 6,
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    }
+]
