@@ -19,7 +19,7 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 1,
-                                "name": "Input"
+                                "name": "TextBox"
                          },
                          "options": [],
                          "required": true
@@ -30,9 +30,9 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 2,
-                                "name": "textArea"
+                                "name": "Multichoice"
                          },
-                         "options": [],
+                         "options": ["Good","Better","Bad","Best"],
                          "required": true
                          
                      }
@@ -48,9 +48,9 @@
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
                                  "id": 3,
-                                 "name": "Radio"
+                                 "name": "Opinion scale"
                           },
-                          "options": ["A","B","C","D"],
+                          "options": [],
                           "required": true
                           
                       },
@@ -58,10 +58,10 @@
                          "id": 2,
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
-                                 "id": 4,
-                                 "name": "Select"
-                          },
-                          "options": ["A","B","C","D"],
+                           "id": 2,
+                           "name": "Multichoice"
+                    },
+                    "options": ["Good","Better","Bad","Best"],
                           "required": false
                           
                       }
@@ -83,7 +83,7 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 1,
-                              "name": "Input"
+                              "name": "TextBox"
                        },
                        "options": [],
                        "required": true
@@ -94,9 +94,9 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 2,
-                              "name": "textArea"
+                              "name": "Multichoice"
                        },
-                       "options": [],
+                       "options": ["Good","Better","Bad","Best"],
                        "required": true
                        
                    }
@@ -112,9 +112,9 @@
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
                                "id": 3,
-                               "name": "Radio"
+                               "name": "Opinion scale"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": [],
                         "required": true
                         
                     },
@@ -122,10 +122,10 @@
                        "id": 2,
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
-                               "id": 4,
-                               "name": "Select"
+                               "id": 1,
+                               "name": "TextBox"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": [],
                         "required": false
                         
                     }
@@ -153,7 +153,7 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 1,
-                                "name": "Input"
+                                "name": "TextBox"
                          },
                          "options": [],
                          "required": true
@@ -164,9 +164,9 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 2,
-                                "name": "textArea"
+                                "name": "Multichoice"
                          },
-                         "options": [],
+                         "options": ["Good","Better","Bad","Best"],
                          "required": true
                          
                      }
@@ -182,9 +182,9 @@
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
                                  "id": 3,
-                                 "name": "Radio"
+                                 "name": "Opinion scale"
                           },
-                          "options": ["A","B","C","D"],
+                          "options": [],
                           "required": true
                           
                       },
@@ -192,10 +192,10 @@
                          "id": 2,
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
-                                 "id": 4,
-                                 "name": "Select"
+                                 "id": 2,
+                                 "name": "Multichoice"
                           },
-                          "options": ["A","B","C","D"],
+                          "options": ["Good","Better","Bad","Best","Good","Better","Bad","Best"],
                           "required": false
                           
                       }
@@ -217,7 +217,7 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 1,
-                              "name": "Input"
+                              "name": "TextBox"
                        },
                        "options": [],
                        "required": true
@@ -228,9 +228,9 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 2,
-                              "name": "textArea"
+                              "name": "Multichoice"
                        },
-                       "options": [],
+                       "options": ["Good","Better","Bad","Best"],
                        "required": true
                        
                    }
@@ -246,9 +246,9 @@
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
                                "id": 3,
-                               "name": "Radio"
+                               "name": "Opinion scale"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": [],
                         "required": true
                         
                     },
@@ -256,10 +256,10 @@
                        "id": 2,
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
-                               "id": 4,
-                               "name": "Select"
+                               "id": 1,
+                               "name": "TextBox"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": [],
                         "required": false
                         
                     }
@@ -287,7 +287,7 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 1,
-                                "name": "Input"
+                                "name": "TextBox"
                          },
                          "options": [],
                          "required": true
@@ -298,9 +298,9 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 2,
-                                "name": "textArea"
+                                "name": "Multichoice"
                          },
-                         "options": [],
+                         "options": ["Good","Better","Bad","Best"],
                          "required": true
                          
                      }
@@ -316,9 +316,9 @@
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
                                  "id": 3,
-                                 "name": "Radio"
+                                 "name": "Opinion scale"
                           },
-                          "options": ["A","B","C","D"],
+                          "options": [],
                           "required": true
                           
                       },
@@ -326,10 +326,10 @@
                          "id": 2,
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
-                                 "id": 4,
-                                 "name": "Select"
+                                 "id": 2,
+                                 "name": "Multichoice"
                           },
-                          "options": ["A","B","C","D"],
+                          "options": ["Good","Better","Bad","Best"],
                           "required": false
                           
                       }
@@ -351,7 +351,7 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 1,
-                              "name": "Input"
+                              "name": "TextBox"
                        },
                        "options": [],
                        "required": true
@@ -362,9 +362,9 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 2,
-                              "name": "textArea"
+                              "name": "Multichoice"
                        },
-                       "options": [],
+                       "options": ["Good","Better","Bad","Best"],
                        "required": true
                        
                    }
@@ -380,9 +380,9 @@
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
                                "id": 3,
-                               "name": "Radio"
+                               "name": "Opinion scale"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": [],
                         "required": true
                         
                     },
@@ -390,10 +390,10 @@
                        "id": 2,
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
-                               "id": 4,
-                               "name": "Select"
+                               "id": 2,
+                               "name": "Multichoice"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": ["Good","Better","Bad","Best"],
                         "required": false
                         
                     }
@@ -421,7 +421,7 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 1,
-                                "name": "Input"
+                                "name": "TextBox"
                          },
                          "options": [],
                          "required": true
@@ -432,9 +432,9 @@
                         "description": "How What software your company is banking upon for this year ? ",
                         "type": {
                                 "id": 2,
-                                "name": "textArea"
+                                "name": "Multichoice"
                          },
-                         "options": [],
+                         "options": ["Good","Better","Bad","Best"],
                          "required": true
                          
                      }
@@ -450,9 +450,9 @@
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
                                  "id": 3,
-                                 "name": "Radio"
+                                 "name": "Opinion scale"
                           },
-                          "options": ["A","B","C","D"],
+                          "options": [],
                           "required": true
                           
                       },
@@ -460,10 +460,10 @@
                          "id": 2,
                          "description": "How What software your company is banking upon for this year ? ",
                          "type": {
-                                 "id": 4,
-                                 "name": "Select"
+                                 "id": 1,
+                                 "name": "TextBox"
                           },
-                          "options": ["A","B","C","D"],
+                          "options": [],
                           "required": false
                           
                       }
@@ -485,7 +485,7 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 1,
-                              "name": "Input"
+                              "name": "TextBox"
                        },
                        "options": [],
                        "required": true
@@ -496,9 +496,9 @@
                       "description": "How What software your company is banking upon for this year ? ",
                       "type": {
                               "id": 2,
-                              "name": "textArea"
+                              "name": "Multichoice"
                        },
-                       "options": [],
+                       "options": ["Good","Better","Bad","Best"],
                        "required": true
                        
                    }
@@ -514,9 +514,9 @@
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
                                "id": 3,
-                               "name": "Radio"
+                               "name": "Opinion scale"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": [],
                         "required": true
                         
                     },
@@ -524,10 +524,10 @@
                        "id": 2,
                        "description": "How What software your company is banking upon for this year ? ",
                        "type": {
-                               "id": 4,
-                               "name": "Select"
+                               "id": 3,
+                               "name": "Opinion scale"
                         },
-                        "options": ["A","B","C","D"],
+                        "options": [],
                         "required": false
                         
                     }
