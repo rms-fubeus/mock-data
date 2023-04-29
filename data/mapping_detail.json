@@ -4,7 +4,7 @@
     "targetFrameworkName": "ISO",
     "rowData": [
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -109,7 +109,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -151,7 +151,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "doanin": {
+            "domain": {
                 "id": 1,
                 "name": "ID"
             },
