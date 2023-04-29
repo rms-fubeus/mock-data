@@ -1,0 +1,200 @@
+{
+    "id": 1,
+    "baseFrameworkName": "NIST",
+    "targetFrameworkName": "ISO",
+    "rowData": [
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        },
+        {
+            "doanin": {
+                "id": 1,
+                "name": "NAME"
+            },
+            "categoryId": {
+                "id": 1,
+                "name": "AM"
+            },
+            "subCategoryId": {
+                "id": 1,
+                "name": "ID.AM-1"
+            },
+            "description": "Physical devices and systems within the organization are",
+            "targetFramework": [
+                {
+                    "SubCategoryId": "A.8.1.1",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                },
+                {
+                    "SubCategoryId": "A.8.1.2",
+                    "description": "Physical devices and systems within the organization are inventoried"
+                }
+            ]
+        }
+    ]
+}

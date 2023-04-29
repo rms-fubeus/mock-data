@@ -1,5 +1,7 @@
 {
     "id": 1,
+    "name": "NIST ORG",
+    "frameworkName": "NIST",
     "domain": [
       {
         "id": 1,

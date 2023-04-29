@@ -1,0 +1,547 @@
+{
+    "id": 1,
+    "name": "NIST ORG",
+    "frameworkName": "NIST",
+    "scoringLogicDetail": [
+        {
+            "id": 1,
+            "functions": {
+                "id": 1,
+                "name": "Identify"
+            },
+            "category": {
+                "id": 1,
+                "name": "Asset management"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "ID.AM - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 2,
+            "functions": {
+                "id": 1,
+                "name": "Identify"
+            },
+            "category": {
+                "id": 1,
+                "name": "Asset management"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "ID.AM - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 3,
+            "functions": {
+                "id": 1,
+                "name": "Identify"
+            },
+            "category": {
+                "id": 1,
+                "name": "Asset management"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "ID.AM - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 3
+        },
+        {
+            "id": 4,
+            "functions": {
+                "id": 1,
+                "name": "Identify"
+            },
+            "category": {
+                "id": 2,
+                "name": "Business Environment"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "ID.BE - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 4
+        },
+        {
+            "id": 5,
+            "functions": {
+                "id": 1,
+                "name": "Identify"
+            },
+            "category": {
+                "id": 2,
+                "name": "Business Environment"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "ID.BE - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 6,
+            "functions": {
+                "id": 1,
+                "name": "Identify"
+            },
+            "category": {
+                "id": 2,
+                "name": "Business Environment"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "ID.BE - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 7,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 3,
+                "name": "Awareness And Training"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "PT.AT - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 8,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 3,
+                "name": "Awareness And Training"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "PT.AT  - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 9,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 3,
+                "name": "Awareness And Training"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "PT.AT - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 3
+        },
+        {
+            "id": 10,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 4,
+                "name": "Data Security"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "PT.DS - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 4
+        },
+        {
+            "id": 11,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 4,
+                "name": "Data Security"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "PT.DS - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 12,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 4,
+                "name": "Data Security"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "PT.DS - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 13,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 5,
+                "name": "Data Privacy"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "PT.DP - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 4
+        },
+        {
+            "id": 14,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 5,
+                "name": "Data Privacy"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "PT.DP - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 15,
+            "functions": {
+                "id": 2,
+                "name": "Protect"
+            },
+            "category": {
+                "id": 5,
+                "name": "Data Privacy"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "PT.DP - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 16,
+            "functions": {
+                "id": 3,
+                "name": "Detect"
+            },
+            "category": {
+                "id": 1,
+                "name": "Asset management"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "DT.AM - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 17,
+            "functions": {
+                "id": 3,
+                "name": "Detect"
+            },
+            "category": {
+                "id": 1,
+                "name": "Asset management"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "DT.AM - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 18,
+            "functions": {
+                "id": 3,
+                "name": "Detect"
+            },
+            "category": {
+                "id": 1,
+                "name": "Asset management"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "DT.AM - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 3
+        },
+        {
+            "id": 19,
+            "functions": {
+                "id": 3,
+                "name": "Detect"
+            },
+            "category": {
+                "id": 2,
+                "name": "Business Environment"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "DT.BE - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 4
+        },
+        {
+            "id": 20,
+            "functions": {
+                "id": 3,
+                "name": "Detect"
+            },
+            "category": {
+                "id": 2,
+                "name": "Business Environment"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "DT.BE - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 21,
+            "functions": {
+                "id": 3,
+                "name": "Detect"
+            },
+            "category": {
+                "id": 2,
+                "name": "Business Environment"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "DT.BE - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 22,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 3,
+                "name": "Awareness And Training"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "RP.AT - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 23,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 3,
+                "name": "Awareness And Training"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "RP.AT  - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 24,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 3,
+                "name": "Awareness And Training"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "RP.AT - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 3
+        },
+        {
+            "id": 25,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 4,
+                "name": "Data Security"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "RP.DS - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 4
+        },
+        {
+            "id": 26,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 4,
+                "name": "Data Security"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "RP.DS - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 27,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 4,
+                "name": "Data Security"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "RP.DS - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        },
+        {
+            "id": 28,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 5,
+                "name": "Data Privacy"
+            },
+            "sub_category": {
+                "id": 1,
+                "name": "RP.DP - 1"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 4
+        },
+        {
+            "id": 29,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 5,
+                "name": "Data Privacy"
+            },
+            "sub_category": {
+                "id": 2,
+                "name": "RP.DP - 2"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 2
+        },
+        {
+            "id": 30,
+            "functions": {
+                "id": 4,
+                "name": "Response"
+            },
+            "category": {
+                "id": 5,
+                "name": "Data Privacy"
+            },
+            "sub_category": {
+                "id": 3,
+                "name": "RP.DP - 3"
+            },
+            "weightage_within_function": "10%",
+            "weightage_per_function": "20%",
+            "sub_category_scory": 1
+        }
+    ]
+}

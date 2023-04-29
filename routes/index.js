@@ -16,7 +16,10 @@ router.get("/", function (req, res, next) {
         framework: "/api/frameworks",
         framework_detail: "/api/frameworks/:id",
         survey_templates: "/api/surveyTemplates",
-        survey_templates_detail: "/api/surveyTemplates/:id"
+        survey_templates_detail: "/api/surveyTemplates/:id",
+        maturity_model_detail: "/api/maturityModels/:id",
+        scoring_logic_detail: "/api/scoringLogics/:id",
+        mapping_detail: "/api/mappings/:id"
       },
   });
 });
