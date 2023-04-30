@@ -1,0 +1,3151 @@
+{
+    "id": 1,
+    "name": "NIST ORG",
+    "frameworkName": "NIST",
+    "domain": [
+        {
+            "id": 1,
+            "domainName": "Identify",
+            "category": [
+                {
+                    "id": 1,
+                    "categoryName": "Category 1",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "ID.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "ID.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "ID.AM 3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "ID.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "ID.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "ID.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "categoryName": "Category 2",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "ID.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "ID.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "ID.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "ID.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "ID.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "ID.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "categoryName": "Category 3",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "ID.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "ID.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "ID.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "ID.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "ID.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "ID.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "categoryName": "Category 4",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "ID.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "ID.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "ID.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "ID.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "ID.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "ID.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "categoryName": "Category 5",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "ID.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "ID.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "ID.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "ID.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "ID.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "ID.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "domainName": "Protect",
+            "category": [
+                {
+                    "id": 1,
+                    "categoryName": "Category 1",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "PT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "PT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "PT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "PT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "PT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "PT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 2",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "PT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "PT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "PT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "PT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "PT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "PT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 3",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "PT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "PT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "PT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "PT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "PT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "PT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 4",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "PT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "PT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "PT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "PT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "PT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "PT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 5",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "PT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "PT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "PT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "PT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "PT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "PT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "domainName": "Detect",
+            "category": [
+                {
+                    "id": 1,
+                    "categoryName": "Category 1",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "DT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "DT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "DT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "DT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "DT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "DT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 2",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "DT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "DT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "DT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "DT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "DT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "DT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 3",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "DT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "DT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "DT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "DT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "DT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "DT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 4",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "DT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "DT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "DT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "DT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "DT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "DT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 5",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "DT.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "DT.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "DT.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "DT.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "DT.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "DT.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "domainName": "Response",
+            "category": [
+                {
+                    "id": 1,
+                    "categoryName": "Category 1",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "RP.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "RP.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "RP.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "RP.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "RP.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "RP.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 2",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "RP.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "RP.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "RP.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "RP.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "RP.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "RP.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 3",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "RP.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "RP.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "RP.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "RP.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "RP.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "RP.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 4",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "RP.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "RP.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "RP.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "RP.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "RP.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "RP.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "categoryName": "Category 5",
+                    "rowData": [
+                        {
+                            "id": 1,
+                            "subCategory": "RP.AM -1 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "subCategory": "RP.AM -2 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "subCategory": "RP.AM -3 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "subCategory": "RP.AM -4 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "subCategory": "RP.AM -5 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "subCategory": "RP.AM -6 ",
+                            "description": "Lorem Lorem Lorem",
+                            "col1": {
+                                "header": "initial",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col2": {
+                                "header": "managed",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col3": {
+                                "header": "defined",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col4": {
+                                "header": "measured",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            },
+                            "col5": {
+                                "header": "optimized",
+                                "row": "Physical devices and systems within the organization are inventoried"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -18,6 +18,7 @@ router.get("/", function (req, res, next) {
         survey_templates: "/api/surveyTemplates",
         survey_templates_detail: "/api/surveyTemplates/:id",
         maturity_model_detail: "/api/maturityModels/:id",
+        maturity_detail: "/api/maturityModel/:id",
         scoring_logic_detail: "/api/scoringLogics/:id",
         mapping_detail: "/api/mappings/:id"
       },

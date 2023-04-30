@@ -15,6 +15,7 @@ const FRAMEWORk_DETAIL = require('../data/framework_detail.json');
 const SURVEY_TEMPLATES = require('../data/survey_template.json');
 const SURVEY_TEMPLATES_DEATIL = require('../data/survey_template_detail.json');
 const MATURITY_DETAILS_DEATIL = require('../data/maturity_model_detail.json');
+const MATURITY_DEATIL = require('../data/maturity_detail.json');
 const SCORING_LOGIC_DEATIL = require('../data/scoring_logic_detail.json');
 const MAPPING_DEATIL = require('../data/mapping_detail.json');
 
@@ -78,6 +79,10 @@ router.get('/scoringLogics/:id', function(req, res, next) {
 
 router.get('/mappings/:id', function(req, res, next) {
   res.send(MAPPING_DEATIL);
+});
+
+router.get('/maturityModel/:id', function(req, res, next) {
+  res.send(MATURITY_DEATIL);
 });
 
 
