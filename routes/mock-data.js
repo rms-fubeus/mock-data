@@ -13,6 +13,7 @@ const CLIENT_DETAIL = require('../data/client_detail.json');
 const FRAMEWORk = require('../data/framework.json');
 const FRAMEWORk_DETAIL = require('../data/framework_detail.json');
 const SURVEY_TEMPLATES = require('../data/survey_template.json');
+const INTERVIEW_TEMPLATES = require('../data/interview_template.json');
 const SURVEY_TEMPLATES_DEATIL = require('../data/survey_template_detail.json');
 const MATURITY_DETAILS_DEATIL = require('../data/maturity_model_detail.json');
 const MATURITY_DEATIL = require('../data/maturity_detail.json');
@@ -63,6 +64,10 @@ router.get('/frameworks/:id', function(req, res, next) {
 
 router.get('/surveyTemplates', function(req, res, next) {
   res.send(SURVEY_TEMPLATES);
+});
+
+router.get('/interviewTemplates', function(req, res, next) {
+  res.send(INTERVIEW_TEMPLATES);
 });
 
 router.get('/surveyTemplates/:id', function(req, res, next) {
