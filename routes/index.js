@@ -22,6 +22,7 @@ router.get("/", function (req, res, next) {
         maturity_detail: "/api/maturityModel/:id",
         maturity_model: "/api/maturityModel",
         scoring_logic_detail: "/api/scoringLogics/:id",
+        scoring_logic: "/api/scoringLogic",
         mapping_detail: "/api/mappings/:id"
       },
   });

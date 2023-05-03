@@ -19,6 +19,7 @@ const MATURITY_DETAILS_DEATIL = require('../data/maturity_model_detail.json');
 const MATURITY_DEATIL = require('../data/maturity_detail.json');
 const MATURITY_MODEL = require('../data/maturity_model.json');
 const SCORING_LOGIC_DEATIL = require('../data/scoring_logic_detail.json');
+const SCORING_LOGIC = require('../data/scoring_logic.json');
 const MAPPING_DEATIL = require('../data/mapping_detail.json');
 
 
@@ -81,6 +82,10 @@ router.get('/maturityModels/:id', function(req, res, next) {
 
 router.get('/scoringLogics/:id', function(req, res, next) {
   res.send(SCORING_LOGIC_DEATIL);
+});
+
+router.get('/scoringLogic', function(req, res, next) {
+  res.send(SCORING_LOGIC);
 });
 
 router.get('/mappings/:id', function(req, res, next) {
