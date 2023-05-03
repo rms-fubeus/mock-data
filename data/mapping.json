@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "frameworkName": "NIST",
+        "assessmentType": "ISO",
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 2,
+        "frameworkName": "NIST",
+        "assessmentType": "SSA",
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    },
+    {
+        "id": 3,
+        "frameworkName": "ISO",
+        "assessmentType": "SSA",
+        "createdDate": "2023-04-11T03:32:55.672Z"
+    }
+]
